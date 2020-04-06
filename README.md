@@ -1,0 +1,27 @@
+## some cool remarks
+ - corona: make it your advantage! remember: a bug can turn to a feature
+ - online events: save time on transportation
+ - campus tour: let's do a google street view of the campus!
+    - dose, library, unisport and unifit, building 48 46 36 34, (mensa not available on google street view.)
+ - hands-on study tips:
+    - how to google uni related stuff?
+    - google translate trick with names 
+    - study related: 
+        - lectures-> kis, exams registering->qis, exam protocols->kai
+        - course info->module handbook
+    - student related:
+        - fachschaft->fsin.fo, mailing lists, pad lock, ...
+        - food->mensa-kl.de
+        - sport->unisport.uni-kl.de & unifit.uni-kl.de
+            - unisport->free course/paid course
+            - unifit->3 session trial for all courses
+        - events:
+            - international:
+                - intClub
+                - ISGS
+            - all:
+                - ASTA
+                - campus plus
+                - campus kaltur
+                - library
+                - parties

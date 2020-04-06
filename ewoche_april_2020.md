@@ -1,0 +1,16 @@
+# ewoche presentation:
+ - welcome
+ - department related
+    - SCI
+    - Dean's office
+    - ... 
+ - study related
+    - mentor
+    - specialization
+    - examination office
+    - ...
+ - student life related
+     - fachschaft introduction
+     - study tips
+     - (student mentor)
+     - (virtual socializing event)

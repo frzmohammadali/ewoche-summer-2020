@@ -3,6 +3,7 @@
  - online events: save time on transportation
  - campus tour: let's do a google street view of the campus!
     - dose, library, unisport and unifit, building 48 46 36 34, (mensa not available on google street view.)
+ - what's new? you'll have a buddy!
  - hands-on study tips:
     - how to google uni related stuff?
     - google translate trick with names 
